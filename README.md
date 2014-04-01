@@ -10,7 +10,7 @@ Freelancer User Fields Readme
 
 
 <h4>INSTALLATION:</h4>
-<pCopy all files/directories from the files directory to the root PHP-Fusion installation path on your server.</p>
+<pCopy files from "files" directory in the root directory of PHP Fusion on your server.</p>
 
 Go to:
 <p>Admin panel > User Admin > User Fields >
