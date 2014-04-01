@@ -6,7 +6,7 @@ Freelancer User Fields Readme
 
 
 <h4>DESCRIPTION:</h4>
-<p>This bbcode will allow a user to display a playlist from http://www.soundcloud.com embedded into their forum post for <a href='http://www.php-fusion.co.uk/' target='_blank'>PHP-Fusion</a> CMS.</p>
+<p>This user field will allow a user to display their profile and hourly rate from http://www.freelancer.com embedded into their user profile. Designed for <a href='http://www.php-fusion.co.uk/' target='_blank'>PHP-Fusion</a> CMS.</p>
 
 
 <h4>INSTALLATION:</h4>
